@@ -1,0 +1,9 @@
+#Powerlevel10k
+romkatv/powerlevel10k
+
+#Plugins
+
+zdharma-continuum/fast-syntax-highlighting kind:defer
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-history-substring-search
+
